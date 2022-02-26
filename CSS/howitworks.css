@@ -10,14 +10,33 @@ nav ul{
 }
 ul{
     margin: 0;
-    list-style-type: none;
     width: 100%;
     padding-right: 20px;
     display: inline;
     font-size: xx-small;
 }
 
-
+img {
+  max-height: 550px;
+}
+h1{
+  font-size: 60px;
+  margin-bottom: 0%;
+  
+}
+.special{
+  margin-top: 0%;
+}
+h6{
+  white-space: pre-line;
+  color: rgb(161, 161, 161);
+}
+h5{
+  margin-bottom: 0%;
+}
+p{
+  margin-top: 0%;
+}
 nav{
     display: block;
     display: black;
@@ -41,8 +60,8 @@ nav a:hover{
   }
 .flex-container1 {
     display: flex;
-    justify-content: space-between;
-    size: 10px;
+    justify-content: space-around;
+    size: 100px;
     margin-top: 50px;
   }
 .button2 {
@@ -89,10 +108,21 @@ nav a:hover{
     place-items:  center;
    
   }
-
 .responsive {
     width: 100%;
     height: auto;
     position: relative;
   }
+
+.child1{
+    text-align: left;
+  }
+
+hr{
+  width: 35%;
+}
+.text{
+  text-align: center;
+  white-space: pre-line;
   
+}

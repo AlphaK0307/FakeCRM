@@ -1,7 +1,4 @@
 .sign{
     display: flex;
-}
-body{
-    background-color: blue
-    ;
+    clip-path: ellipse(33% 82% at 15% 19%);
 }

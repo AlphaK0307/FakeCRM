@@ -1,4 +1,43 @@
-.sign{
+.container{
     display: flex;
-    clip-path: ellipse(33% 82% at 15% 19%);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
+
+.email{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.password{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.button{
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    width: 50%;
+    background-color: blue;
+    color: white;
+    border-color: white;
+}
+.social2{
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.social{
+    display: flex;
+}
+
+.oval {
+    height:100px;
+    width: 50px;
+    background-color: #555;
+    border-radius: 50%;
+  }

@@ -133,10 +133,11 @@ hr{
   text-align: left;
   color:#ffffff;
   margin: 10%;
+  background-color: #0906f1;
 }
 
 .grid-image{
-  background-color: #ffffff;
+  background-color: white;
 }
 
 ol li{
@@ -174,9 +175,8 @@ ol li{
   background-color: blue;
   color: white;
   text-align: center;
-  
-background-color: blue;
-color: white;
+  background-color: blue;
+  color: white;
 }
 .child1{ font-size:xx-small;}
 

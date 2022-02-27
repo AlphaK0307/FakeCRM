@@ -149,6 +149,20 @@ hr{
   background-color: #ffffff;
   position:relative;
   top: 0;
-
-
 }
+.footer {
+  text-align: center;
+  align-items: center;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: blue;
+  color: white;
+  background-color: blue;
+  color: white;
+}
+.child1{ 
+  font-size:xx-small;
+  text-align: center;
+}
+

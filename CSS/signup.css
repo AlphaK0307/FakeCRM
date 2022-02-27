@@ -6,7 +6,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-
+    text-align: center;
 }
 .user{
     display: flex;
@@ -15,3 +15,9 @@ body{
     justify-content: center;
 }
 
+.email{
+    width: 100%;
+}
+.password{
+    width: 100%;
+}

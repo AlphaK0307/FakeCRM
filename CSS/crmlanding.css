@@ -169,16 +169,17 @@ ol li{
 }
 
 .footer {
+  text-align: center;
+  align-items: center;
   left: 0;
   bottom: 0;
   width: 100%;
   background-color: blue;
   color: white;
-  text-align: center;
   background-color: blue;
   color: white;
 }
-.child1{ font-size:xx-small;}
+.child2{ font-size:x-small;}
 
 .btn-success{
     padding: 10px;

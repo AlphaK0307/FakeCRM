@@ -1,9 +1,11 @@
 body{
     justify-content:center;
     align-items: center;
-    padding: 20px;
-    height: 100%;
+    padding: 0px;
+    margin: 0px;
 }
+
+
 .container{
     display: flex;
     align-items: center;

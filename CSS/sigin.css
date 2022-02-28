@@ -1,8 +1,11 @@
+html{
+    display: inline-block;
+}
 .container{
     display: flex;
     align-items: center;
-    justify-content: center;
     text-align: center;
+    justify-content: center;
 }
 
 .email{
@@ -10,12 +13,34 @@
     padding: 10px;
     margin-bottom: 10px;
     border-radius: 20px;
+    background-image: url("../images/Page-1.png");
+    background-repeat:no-repeat;
+    background-size:10%;
+    background-position: left;
+    background-position-x: 0.2cm;
 }
 .password{
     width: 100%;
     padding: 10px;
     margin-bottom: 10px;
     border-radius: 20px;
+    background-image: url("../images/mail.png");
+    background-repeat:no-repeat;
+    background-size:10%;
+    background-position: left;
+    background-position-x: 0.2cm;
+}
+
+.password1{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    background-image: url("../images/lock.png");
+    background-repeat:no-repeat;
+    background-size:10%;
+    background-position: left;
+    background-position-x: 0.2cm;
 }
 .button{
     padding: 10px;
@@ -25,6 +50,8 @@
     background-color: blue;
     color: white;
     border-color: white;
+    font-weight: bold;
+    font-size: large;
 }
 .social2{
     padding: 10px;

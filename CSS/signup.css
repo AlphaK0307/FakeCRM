@@ -22,12 +22,34 @@ body{
     padding: 10px;
     margin-bottom: 10px;
     border-radius: 20px;
+    background-image: url("../images/Page-1.png");
+    background-repeat:no-repeat;
+    background-size:10%;
+    background-position: left;
+    background-position-x: 0.2cm;
 }
 .password{
     width: 100%;
     padding: 10px;
     margin-bottom: 10px;
     border-radius: 20px;
+    background-image: url("../images/mail.png");
+    background-repeat:no-repeat;
+    background-size:10%;
+    background-position: left;
+    background-position-x: 0.2cm;
+}
+
+.password1{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    background-image: url("../images/lock.png");
+    background-repeat:no-repeat;
+    background-size:10%;
+    background-position: left;
+    background-position-x: 0.2cm;
 }
 
 .button{
@@ -44,4 +66,5 @@ body{
     color: white;
     background-color: blue;
     font-weight: bold;
+    font-size: large;
 }
